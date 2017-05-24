@@ -71,6 +71,7 @@
             this.przycisk_polacz.TabIndex = 3;
             this.przycisk_polacz.Text = "Polacz";
             this.przycisk_polacz.UseVisualStyleBackColor = true;
+            this.przycisk_polacz.Click += new System.EventHandler(this.przycisk_polacz_Click);
             // 
             // Form1
             // 
